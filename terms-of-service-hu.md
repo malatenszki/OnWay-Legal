@@ -21,11 +21,11 @@ Az Alkalmazás letöltésével, telepítésével vagy bármilyen módon történ
 Az OnWay egy informatív jellegű, **érdekespontokon (POI) alapuló** közlekedési figyelmeztető alkalmazás, amely:
 
 - Közlekedési kamerák **nyilvánosan elérhető** (hatósági listák, OpenStreetMap, közösségi) pozícióit jeleníti meg térképen
-- Figyelmezteti a Felhasználót, ha közeledik egy ismert fix közlekedési kamerához vagy közösségi bejelentéshez (rendőri jelenlét, baleset, útlezárás, stb.)
+- Figyelmezteti a Felhasználót, ha közeledik egy ismert fix közlekedési kamerához vagy közösségi útveszély-bejelentéshez (baleset, forgalmi dugó, kátyú, útlezárás, stb.)
 - Lehetőséget biztosít a Felhasználóknak más Felhasználók számára hasznos, valós idejű közlekedési információk anonim bejelentésére
 
 **Az Alkalmazás kifejezetten NEM:**
-- Nem radar-detektor és nem érzékel rádiójeleket — kizárólag ismert, publikus helyszínek koordinátáit használja
+- Nem jelérzékelő eszköz és nem érzékel rádió- vagy egyéb vezeték nélküli jeleket — kizárólag ismert, publikus helyszínek koordinátáit használja
 - Nem navigációs rendszer
 - Nem helyettesíti a KRESZ szabályok ismeretét és betartását
 
@@ -134,8 +134,8 @@ Az Alkalmazás, annak valamennyi alkotóeleme (szoftver, design, grafika, szöve
 ### 7.2 Térkép és adatforrások
 
 - A térképcsempéket és az alaptérképi adatokat az **OpenStreetMap közösség** (*OpenStreetMap contributors*) biztosítja az **Open Database License (ODbL)** feltételei szerint. Forrásmegjelölés: *© OpenStreetMap contributors*.
-- A magyarországi KKEP kamera-pozíciók a Magyar Rendőrség nyilvános adatbázisából származnak.
-- A szerbiai kamera-pozíciók részben hatósági közlemények, részben az OpenStreetMap, részben közösségi források alapján kerültek rögzítésre.
+- A magyarországi KKEP kamera-pozíciók a magyarországi közlekedési hatóság nyilvánosan elérhető adataiból származnak.
+- A szerbiai kamera-pozíciók részben szerb közlekedési hatósági közleményekből, részben az OpenStreetMap-ből, részben közösségi forrásokból származnak.
 
 ### 7.3 Felhasználás korlátai
 

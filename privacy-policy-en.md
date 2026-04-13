@@ -65,7 +65,7 @@ Consent for background location processing is handled in accordance with GDPR Ar
 
 ### 3.4 User Reports
 
-- **Data:** Report type (police / radar / checkpoint / accident), position (lat/lng), heading, creation time, expiration time, pseudonymous identifier of the creator
+- **Data:** Report type (hazard / accident / traffic jam / pothole), position (lat/lng), heading, creation time, expiration time, pseudonymous identifier of the creator
 - **Legal Basis:** Article 6(1)(f) — **legitimate interest** of the Controller and other Users in sharing and receiving real-time traffic information. Balancing test: reports are voluntarily created by the User, concern public locations and public events (they do not contain personal data of third parties), and are linked via a pseudonymous device identifier.
 - **Purpose:** Warning other Users about current road conditions
 

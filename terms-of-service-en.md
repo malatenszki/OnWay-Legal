@@ -19,11 +19,11 @@ By downloading, installing or using the App in any manner, the User acknowledges
 OnWay is an informational **Points of Interest (POI) based** traffic awareness application that:
 
 - Displays **publicly available** positions of traffic cameras (from official lists, OpenStreetMap, community sources) on a map
-- Warns the User when approaching a known fixed traffic camera or community-submitted report (police presence, accident, road closure, etc.)
+- Warns the User when approaching a known fixed traffic camera or community-submitted road hazard report (accident, traffic jam, pothole, road closure, etc.)
 - Allows Users to anonymously submit real-time traffic information useful to other Users
 
 **The App is expressly NOT:**
-- Not a radar detector and does not detect any radio signals — it uses only coordinates of known, public locations
+- Not a signal-detection device and does not detect any radio or wireless signals — it uses only coordinates of known, public locations
 - Not a navigation system
 - Not a substitute for the knowledge and observance of traffic rules
 
@@ -50,7 +50,7 @@ The Service Provider does not warrant or guarantee:
 - That no new cameras have been installed that are not yet in the App
 - The truthfulness, accuracy or freshness of community reports
 
-The data in the App originates from **publicly available sources** (e.g., official police lists, OpenStreetMap community map, user reports), which may be inaccurate, outdated or incomplete.
+The data in the App originates from **publicly available sources** (e.g., official traffic-authority lists, OpenStreetMap community map, user reports), which may be inaccurate, outdated or incomplete.
 
 ### 3.3 Not a Substitute for Knowledge of Rules
 
@@ -133,8 +133,8 @@ The App, all its components (software, design, graphics, texts, trademarks) cons
 ### 7.2 Map and Data Sources
 
 - Map tiles and base map data are provided by the **OpenStreetMap contributors** community under the **Open Database License (ODbL)**. Attribution: *© OpenStreetMap contributors*.
-- Hungarian KKEP camera positions are sourced from the public database of the Hungarian Police.
-- Serbian camera positions are partly from official Serbian police announcements, partly from OpenStreetMap, partly from community sources.
+- Hungarian KKEP camera positions are sourced from publicly available Hungarian traffic-authority datasets.
+- Serbian camera positions are sourced from publicly available Serbian traffic-authority announcements, OpenStreetMap, and community contributions.
 
 ### 7.3 Usage Restrictions
 

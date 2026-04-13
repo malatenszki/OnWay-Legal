@@ -65,7 +65,7 @@ Saglasnost za obradu lokacije u pozadini se obrađuje u skladu sa članom 7. i �
 
 ### 3.4 Prijave Korisnika (Reports)
 
-- **Podaci:** Tip prijave (policija / radar / kontrola / nezgoda), pozicija (lat/lng), smer, vreme kreiranja, vreme isteka, pseudonimni identifikator kreatora
+- **Podaci:** Tip prijave (opasnost / nesreća / gužva / rupa na putu), pozicija (lat/lng), smer, vreme kreiranja, vreme isteka, pseudonimni identifikator kreatora
 - **Pravni osnov:** Član 6. stav 1. tačka (f) GDPR — **legitimni interes** Rukovaoca i drugih Korisnika za deljenje i primanje saobraćajnih informacija u realnom vremenu
 - **Svrha:** Upozoravanje drugih Korisnika o aktuelnim uslovima na putu
 

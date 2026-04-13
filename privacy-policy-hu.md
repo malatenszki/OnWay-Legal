@@ -65,7 +65,7 @@ A háttérben történő helymeghatározáshoz szükséges hozzájárulás kezel
 
 ### 3.4 Felhasználói bejelentések (Reports)
 
-- **Adatkör:** Bejelentés típusa (rendőr / radar / ellenőrzés / baleset), helyzete (lat/lng), iránya, létrehozás időpontja, lejárat időpontja, a létrehozó pszeudonim eszközazonosítója
+- **Adatkör:** Bejelentés típusa (útveszély / baleset / forgalmi dugó / kátyú), helyzete (lat/lng), iránya, létrehozás időpontja, lejárat időpontja, a létrehozó pszeudonim eszközazonosítója
 - **Jogalap:** A GDPR 6. cikk (1) bekezdés f) pont — **az Adatkezelő és más Felhasználók jogos érdeke** a valós idejű közlekedési információk megosztására és fogadására. Érdekmérlegelés: a bejelentéseket maga a Felhasználó hozza létre önkéntesen, azok nyilvános helyszínekre és közérdekű eseményekre vonatkoznak (nem tartalmaznak harmadik személyek személyes adatait), és pszeudonim eszközazonosítón keresztül kapcsolódnak a közzétevőhöz.
 - **Cél:** Más Felhasználók figyelmeztetése az aktuális útviszonyokról
 

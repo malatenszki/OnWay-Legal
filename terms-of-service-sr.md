@@ -21,11 +21,11 @@ Preuzimanjem, instalacijom ili bilo kojim načinom korišćenja Aplikacije Koris
 OnWay je informativna aplikacija zasnovana na **tačkama od interesa (POI)**, koja:
 
 - Prikazuje **javno dostupne** pozicije saobraćajnih kamera (iz službenih lista, OpenStreetMap-a, zajednice korisnika) na mapi
-- Upozorava Korisnika kada se približava poznatoj fiksnoj saobraćajnoj kameri ili prijavi iz zajednice (policijska kontrola, udes, zatvaranje puta, itd.)
+- Upozorava Korisnika kada se približava poznatoj fiksnoj saobraćajnoj kameri ili prijavi opasnosti na putu iz zajednice (udes, gužva, rupa na putu, zatvaranje puta, itd.)
 - Omogućava Korisnicima da anonimno prijavljuju aktuelne saobraćajne informacije korisne za druge Korisnike
 
 **Aplikacija izričito NIJE:**
-- Nije radarski detektor niti detektuje radio signale — koristi isključivo koordinate poznatih, javnih lokacija
+- Nije uređaj za detekciju signala niti detektuje radio ili druge bežične signale — koristi isključivo koordinate poznatih, javnih lokacija
 - Nije navigacioni sistem
 - Ne zamenjuje poznavanje i poštovanje saobraćajnih propisa
 
@@ -126,8 +126,8 @@ Aplikacija, svi njeni elementi (softver, dizajn, grafike, tekstovi, zaštitni zn
 ### 7.2 Mapa i izvori podataka
 
 - Mapske pločice i osnovne mapske podatke pruža **OpenStreetMap zajednica** pod uslovima **Open Database License (ODbL)**. Atribucija: *© OpenStreetMap contributors*.
-- Pozicije kamera u Srbiji delom potiču iz službenih saopštenja srpskih organa, delom iz OpenStreetMap-a, delom iz zajedničkih izvora.
-- Pozicije mađarskih KKEP kamera potiču iz javne baze podataka Mađarske Policije.
+- Pozicije kamera u Srbiji potiču iz javno dostupnih saopštenja srpskih saobraćajnih organa, OpenStreetMap-a i doprinosa zajednice.
+- Pozicije mađarskih KKEP kamera potiču iz javno dostupnih podataka mađarskih saobraćajnih organa.
 
 ### 7.3 Ograničenja korišćenja
 
