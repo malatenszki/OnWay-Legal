@@ -7,10 +7,11 @@
   <meta name="description" content="Community-driven driver safety app for Serbia and Hungary. Stay alert to fixed speed cameras and live road hazards reported by other drivers." />
   <meta property="og:title" content="OnWay — Driver safety for Serbia and Hungary" />
   <meta property="og:description" content="Community-driven driver safety app for Serbia and Hungary." />
-  <meta property="og:image" content="screenshots/01-map.png" />
+  <meta property="og:image" content="icon.png" />
   <meta property="og:type" content="website" />
   <meta name="theme-color" content="#0a0a0a" />
-  <link rel="icon" type="image/png" href="screenshots/01-map.png" />
+  <link rel="icon" type="image/png" sizes="512x512" href="favicon.png" />
+  <link rel="apple-touch-icon" href="icon.png" />
   <style>
     :root {
       --bg:         #0a0a0a;
@@ -95,34 +96,19 @@
       );
     }
     .hero-logo {
-      display: inline-flex;
-      align-items: center;
-      justify-content: center;
-      width: 96px;
-      height: 96px;
-      border-radius: 22px;
-      background: var(--yellow);
+      display: inline-block;
+      width: 104px;
+      height: 104px;
+      border-radius: 24px;
       margin-bottom: 24px;
-      position: relative;
-      box-shadow: 0 16px 50px rgba(234,179,8,0.25);
+      box-shadow: 0 18px 60px rgba(234,179,8,0.3);
+      overflow: hidden;
     }
-    .hero-logo-mark {
-      width: 46px;
-      height: 34px;
-      border-radius: 7px;
-      background: #0a0a0a;
-      position: relative;
-    }
-    .hero-logo-mark::after {
-      content: "";
-      position: absolute;
-      top: 50%; left: 50%;
-      transform: translate(-50%, -50%);
-      width: 16px;
-      height: 16px;
-      border-radius: 50%;
-      background: var(--orange);
-      box-shadow: 0 0 0 3px #0a0a0a;
+    .hero-logo img {
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
     }
     .hero h1 {
       font-size: 62px;
@@ -318,7 +304,7 @@
     <!-- HERO -->
     <section class="hero">
       <div class="hero-logo">
-        <div class="hero-logo-mark"></div>
+        <img src="icon.png" alt="OnWay app icon" width="104" height="104" />
       </div>
       <h1>OnWay</h1>
       <p class="hero-tag" data-lang="en">
