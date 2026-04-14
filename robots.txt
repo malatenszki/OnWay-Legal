@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://malatenszki.github.io/OnWay-Legal/sitemap.xml

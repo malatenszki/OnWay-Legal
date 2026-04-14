@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://malatenszki.github.io/OnWay-Legal/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malatenszki.github.io/OnWay-Legal/" />
+    <xhtml:link rel="alternate" hreflang="hu" href="https://malatenszki.github.io/OnWay-Legal/" />
+    <xhtml:link rel="alternate" hreflang="sr" href="https://malatenszki.github.io/OnWay-Legal/" />
+  </url>
+  <url>
+    <loc>https://malatenszki.github.io/OnWay-Legal/privacy-policy-en</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://malatenszki.github.io/OnWay-Legal/privacy-policy-hu</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://malatenszki.github.io/OnWay-Legal/privacy-policy-sr</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://malatenszki.github.io/OnWay-Legal/terms-of-service-en</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://malatenszki.github.io/OnWay-Legal/terms-of-service-hu</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://malatenszki.github.io/OnWay-Legal/terms-of-service-sr</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://malatenszki.github.io/OnWay-Legal/imprint-en</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://malatenszki.github.io/OnWay-Legal/imprint-hu</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://malatenszki.github.io/OnWay-Legal/imprint-sr</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://malatenszki.github.io/OnWay-Legal/account-deletion</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+</urlset>
